@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LucasSi7va/react-js.git/static/css/main.81635e55.css",
+    "main.js": "/LucasSi7va/react-js.git/static/js/main.da3b8b35.js",
+    "index.html": "/LucasSi7va/react-js.git/index.html",
+    "main.81635e55.css.map": "/LucasSi7va/react-js.git/static/css/main.81635e55.css.map",
+    "main.da3b8b35.js.map": "/LucasSi7va/react-js.git/static/js/main.da3b8b35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81635e55.css",
+    "static/js/main.da3b8b35.js"
+  ]
+}
